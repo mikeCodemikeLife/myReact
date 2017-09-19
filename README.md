@@ -1,2 +1,2 @@
 # myReact
-personal project
+## 个人react学习项目
